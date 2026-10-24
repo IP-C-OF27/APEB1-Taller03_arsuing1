@@ -1,4 +1,4 @@
-package ejercicio09;
+package ejercicio10;
 public class Ejercicio10 {
     public static void main(String[] args) {
         double var1 = 25.0;
